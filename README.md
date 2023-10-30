@@ -7,7 +7,7 @@
 
 
 ## DEDUCTION OF PNEUMONIA  USING CHEST X RAY IMAGES
-This project focuses on developing an automated Pneumonia Detection system using deep learning and chest X-ray images. It offers insights into diagnostic decisions and contributing to early and effective treatment. The accuracy was 90% this was achived ony by intel oneAPI. oneAPI  has led to a remarkable enhancement in inference speed, with the average inference time being roughly half of what it was before . This points to a substantial improvement in the speed of inference. 🚀 Furthermore, the minimum and maximum inference times have seen a significant decrease post oneAPI implementation, contributing to a more consistent and expedited inference process.
+Our project focuses on pneumonia detection using a dataset of chest X-ray images. It begins with feature extraction using OpenCV and the construction of a Convolutional Neural Network (CNN) model. This model incorporates essential layers, including Conv2D, BatchNormalization, MaxPooling2D, Flatten, Dense, and Dropout, to enhance its learning capabilities. After rigorous training and validation, the model achieves an impressive accuracy of 96.24%. Notably, our project evaluates runtime execution by testing the model with both TensorFlow and Intel OpenVINO IR models. Surprisingly, OpenVINO outperforms TensorFlow, completing the task in half the time, highlighting a substantial improvement in inference speed. 🚀 Additionally, the implementation of OpenVINO has resulted in a remarkable 50% reduction in runtime execution, significantly enhancing the speed and efficiency of our pneumonia detection system.
 ___
 
 
