@@ -71,12 +71,12 @@ Clone the PNEUMONIA__detection_IntelONEAPI.ipynb repository:
 
 ```bash
   git clone
-  https://github.com/aasima007/PNEUMONIA__detection_IntelONEAPI.ipynb
+  https://github.com/aasima007/PNEUMONIA__detection_IntelONEAPI
 ```
 Change to the project directory
 
 ```bash
-cd PNEUMONIA__detection_IntelONEAPI.ipynb
+cd PNEUMONIA__detection_IntelONEAPI
 ```
 Install the dependencies:
 ```bash
