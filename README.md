@@ -25,7 +25,7 @@ Tensorflow runtime : 0.32
 
 OpenVino IR runtime : 0.22 Sec
 
-<img src='openvinoIRruntime.PNG' alt='Tensorflowruntime.png'/>
+<img src="https://drive.google.com/uc?id=1zjFT0wOxgoeXrjbhKBSZhrLCdm3MNCJQ" alt="openvinoIRruntime.png">
 
 After completion of testing it clearly shows that openvino outperformed the tensorflow by runtime execution and performance.
 
