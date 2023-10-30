@@ -12,7 +12,7 @@ ___
 
 
 ## PROJECT FLOW
-In this project, our initial model training and execution were conducted without harnessing the advantages of Intel's optimized libraries and the oneAPI toolkit. Although our accuracy was satisfactory, there was clear potential for enhancing the efficiency of our system. By seamlessly integrating the Intel-optimized TensorFlow model and deploying it using OpenVINO IR models, we not only maintained our accuracy levels but also witnessed a significant boost in efficiency. This optimization led to reduced runtime and effectively distributed the hardware load during the training process, resulting in a more streamlined and high-performance system. A pivotal component of this project was the utilization of the Intel oneAPI devcloud, which provided a swift and finely-tuned environment, contributing to the successful completion of our objectives.
+In this project, our initial model training and execution were conducted without harnessing the advantages of Intel's optimized libraries and the oneAPI toolkit. Although our accuracy was satisfactory, there was clear potential for enhancing the efficiency of our system. By seamlessly deploying it using OpenVINO IR models, we not only maintained our accuracy levels but also witnessed a significant boost in efficiency. This optimization led to reduced runtime and effectively distributed the hardware load during the training process, resulting in a more streamlined and high-performance system. A pivotal component of this project was the utilization of the Intel oneAPI devcloud, which provided a swift and finely-tuned environment, contributing to the successful completion of our objectives.
 ___
 
 
