@@ -23,7 +23,7 @@ Tensorflow runtime
 
 <img src='openvinoIRruntime.PNG' alt='Tensorflowruntime.png'/>
 
-open vino runtime
+OpenVino IR runtime
 
 <img src='openvinoIRruntime.PNG' alt='Tensorflowruntime.png'/>
 
