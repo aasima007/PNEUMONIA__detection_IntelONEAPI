@@ -19,9 +19,10 @@ ___
 
 ## Screenshots
 
-Tensorflow runtime : 0.32 
+Tensorflow runtime : 0.32 Sec
 
-<img src='openvinoIRruntime.PNG' alt='Tensorflowruntime.png'/>
+<img src="https://drive.google.com/uc?id=1dF7b4X1SM1zWj2tWZ4P8-oqc8BT58pDT" alt="tensorflowruntime.png">
+
 
 OpenVino IR runtime : 0.22 Sec
 
