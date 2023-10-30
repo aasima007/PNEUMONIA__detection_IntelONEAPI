@@ -7,7 +7,7 @@
 
 
 ## DEDUCTION OF PNEUMONIA  USING CHEST X RAY IMAGES
-This project focuses on developing an automated Pneumonia Detection system using deep learning and chest X-ray images. The system employs convolutional neural networks for accurate diagnosis, ensures compliance with medical regulations, provides an intuitive user interface for healthcare professionals, and offers insights into diagnostic decisions, contributing to early and effective treatment. The accuracy was 90% this was achived ony by intel oneAPI. oneAPI  has led to a remarkable enhancement in inference speed, with the average inference time being roughly half of what it was before . This points to a substantial improvement in the speed of inference. 🚀 Furthermore, the minimum and maximum inference times have seen a significant decrease post oneAPI implementation, contributing to a more consistent and expedited inference process.
+This project focuses on developing an automated Pneumonia Detection system using deep learning and chest X-ray images. It offers insights into diagnostic decisions and contributing to early and effective treatment. The accuracy was 90% this was achived ony by intel oneAPI. oneAPI  has led to a remarkable enhancement in inference speed, with the average inference time being roughly half of what it was before . This points to a substantial improvement in the speed of inference. 🚀 Furthermore, the minimum and maximum inference times have seen a significant decrease post oneAPI implementation, contributing to a more consistent and expedited inference process.
 ___
 
 
