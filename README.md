@@ -7,7 +7,7 @@
 
 
 ## DEDUCTION OF PNEUMONIA  USING CHEST X RAY IMAGES
-Our project focuses on pneumonia detection using a dataset of chest X-ray images. It begins with feature extraction using OpenCV and the construction of a Convolutional Neural Network (CNN) model. This model incorporates essential layers, including Conv2D, BatchNormalization, MaxPooling2D, Flatten, Dense, and Dropout, to enhance its learning capabilities. After rigorous training and validation, the model achieves an impressive accuracy of 96.24%. Notably, our project evaluates runtime execution by testing the model with both TensorFlow and Intel OpenVINO IR models. Surprisingly, OpenVINO outperforms TensorFlow, completing the task in half the time, highlighting a substantial improvement in inference speed. 🚀 Additionally, the implementation of OpenVINO has resulted in a remarkable 50% reduction in runtime execution, significantly enhancing the speed and efficiency of our pneumonia detection system.
+Our project focuses on pneumonia detection using a dataset of chest X-ray images. It begins with feature extraction using OpenCV and the construction of a Convolutional Neural Network (CNN) model. This model incorporates essential layers, including Conv2D, BatchNormalization, MaxPooling2D, Flatten, Dense, and Dropout, to enhance its learning capabilities. After rigorous training and validation, the model achieves an impressive accuracy of 96.24%. Notably, our project evaluates runtime execution by testing the model with both TensorFlow and Intel OpenVINO IR models. Surprisingly, OpenVINO outperforms TensorFlow, completing the task in half the time, highlighting a substantial improvement in inference speed. 🚀 Additionally, the implementation of OpenVINO has resulted in execution time reduction in runtime execution, significantly enhancing the speed and efficiency of our pneumonia detection system.
 ___
 
 
@@ -19,11 +19,11 @@ ___
 
 ## Screenshots
 
-Tensorflow runtime
+Tensorflow runtime : 0.32 
 
 <img src='openvinoIRruntime.PNG' alt='Tensorflowruntime.png'/>
 
-OpenVino IR runtime
+OpenVino IR runtime : 0.22 Sec
 
 <img src='openvinoIRruntime.PNG' alt='Tensorflowruntime.png'/>
 
